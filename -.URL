@@ -1,0 +1,6 @@
+[InternetShortcut]
+URL=javascript:(function()%20{$('audio,video').each(function(idx,%20el)%20{el.playbackRate%20-=0.5;})})()
+IDList=
+HotKey=0
+IconFile=C:\Users\john.heilman\AppData\Local\Mozilla\Firefox\Profiles\twm595pc.default\shortcutCache\528kgNhPFwGMwRPB7SIRgg==.ico
+IconIndex=0
